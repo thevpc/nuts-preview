@@ -1,0 +1,8 @@
+#version=0.8.3
+assembly-project/
+dependency-project/
+nsh/
+onejar-project/
+shade-project/
+simple-project/
+springboot-project/

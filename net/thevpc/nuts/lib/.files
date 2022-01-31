@@ -1,0 +1,7 @@
+#version=0.8.3
+nlib-md/
+nlib-servlet/
+nlib-ssh/
+nlib-talk-agent/
+nlib-template/
+nlib-tomcat-classloader/

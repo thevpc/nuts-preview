@@ -1,0 +1,17 @@
+#version=0.8.3
+ncode/
+ndb/
+ndexer/
+ndiff/
+ndoc/
+ndocusaurus/
+njob/
+nmvn/
+noapi/
+nserver/
+nsh/
+ntalk-agent/
+ntemplate/
+ntomcat/
+nversion/
+nwork/

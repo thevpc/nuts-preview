@@ -1,4 +1,6 @@
-#version=0.8.3
+#version=0.8.4
+hadrubox/
+nbackup/
 ncode/
 ndb/
 ndexer/
@@ -10,6 +12,8 @@ nmvn/
 noapi/
 nserver/
 nsh/
+nsync/
+nsync-portable/
 ntalk-agent/
 ntemplate/
 ntomcat/

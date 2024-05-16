@@ -1,0 +1,4 @@
+#version=0.8.4
+_remote.repositories
+nlib-servlet-0.8.4.0.jar
+nlib-servlet-0.8.4.0.pom

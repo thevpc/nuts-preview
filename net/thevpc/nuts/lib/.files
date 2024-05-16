@@ -1,7 +1,11 @@
-#version=0.8.3
+#version=0.8.4
 nlib-md/
 nlib-servlet/
+nlib-spring-boot/
 nlib-ssh/
+nlib-swing/
+nlib-sync/
 nlib-talk-agent/
 nlib-template/
 nlib-tomcat-classloader/
+nsync/

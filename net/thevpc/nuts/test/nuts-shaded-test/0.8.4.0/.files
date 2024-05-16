@@ -1,0 +1,6 @@
+#version=0.8.4
+_remote.repositories
+nuts-shaded-test-0.8.4.0-shaded.jar
+nuts-shaded-test-0.8.4.0-small.jar
+nuts-shaded-test-0.8.4.0.jar
+nuts-shaded-test-0.8.4.0.pom

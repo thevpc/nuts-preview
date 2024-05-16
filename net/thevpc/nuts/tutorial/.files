@@ -1,8 +1,16 @@
-#version=0.8.3
+#version=0.8.4
 assembly-project/
+custom-cli-project-a/
+custom-cli-project-b/
+custom-cli-project-c/
+custom-shell-example/
 dependency-project/
+lib-integration-example/
 nsh/
+nuts-spring-boot-integration-install-events-example/
 onejar-project/
+remote-self-call-example/
 shade-project/
 simple-project/
+spring-boot-integration-hello-world-example/
 springboot-project/

@@ -1,0 +1,12 @@
+#version=0.8.4
+nuts-builder/
+nuts-companions-builder/
+nuts-core-builder/
+nuts-enterprise-builder/
+nuts-extensions-builder/
+nuts-incubating-builder/
+nuts-installers-builder/
+nuts-libraries-builder/
+nuts-third-party-companions-builder/
+nuts-toolbox-builder/
+nuts-tutorials-builder/

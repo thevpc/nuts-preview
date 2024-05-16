@@ -1,3 +1,5 @@
-#version=0.8.3
+#version=0.8.4
+_remote.repositories
 dependency-project-1.0-SNAPSHOT.jar
 dependency-project-1.0-SNAPSHOT.pom
+maven-metadata-local.xml

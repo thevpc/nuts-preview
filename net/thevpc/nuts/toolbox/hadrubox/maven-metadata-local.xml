@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.thevpc.nuts.toolbox</groupId>
+  <artifactId>hadrubox</artifactId>
+  <versioning>
+    <release>3.2.0.0</release>
+    <versions>
+      <version>3.2.0.0</version>
+    </versions>
+    <lastUpdated>20240411153658</lastUpdated>
+  </versioning>
+</metadata>

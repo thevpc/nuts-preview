@@ -1,0 +1,7 @@
+#version=0.8.4
+nuts-builder-tool/
+nuts-bundle-template/
+nuts-full/
+nuts-installer/
+nuts-portable/
+nuts-release-tool/

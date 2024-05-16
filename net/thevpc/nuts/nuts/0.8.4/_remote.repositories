@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 16 13:36:46 CET 2024
+nuts-0.8.4-sources.jar>=
+nuts-0.8.4.jar>=
+nuts-0.8.4-javadoc.jar>=
+nuts-0.8.4.pom>=

@@ -1,0 +1,6 @@
+#version=0.8.4
+_remote.repositories
+hadrubox-3.2.0.0-jar-with-dependencies.jar
+hadrubox-3.2.0.0-sources.jar
+hadrubox-3.2.0.0.jar
+hadrubox-3.2.0.0.pom

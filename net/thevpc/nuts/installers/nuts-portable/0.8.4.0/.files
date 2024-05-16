@@ -1,0 +1,5 @@
+#version=0.8.4
+_remote.repositories
+nuts-portable-0.8.4.0-shaded.jar
+nuts-portable-0.8.4.0.jar
+nuts-portable-0.8.4.0.pom

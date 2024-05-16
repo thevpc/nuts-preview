@@ -1,0 +1,5 @@
+#version=0.8.4
+_remote.repositories
+custom-cli-project-c-1.0-SNAPSHOT.jar
+custom-cli-project-c-1.0-SNAPSHOT.pom
+maven-metadata-local.xml

@@ -1,0 +1,5 @@
+#version=0.8.4
+_remote.repositories
+maven-metadata-local.xml
+rerun-1.0-SNAPSHOT.jar
+rerun-1.0-SNAPSHOT.pom

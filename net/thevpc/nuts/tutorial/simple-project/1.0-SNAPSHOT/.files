@@ -1,3 +1,5 @@
-#version=0.8.3
+#version=0.8.4
+_remote.repositories
+maven-metadata-local.xml
 simple-project-1.0-SNAPSHOT.jar
 simple-project-1.0-SNAPSHOT.pom

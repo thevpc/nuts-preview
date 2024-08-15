@@ -3,7 +3,7 @@
   <groupId>net.thevpc.nuts.tutorial</groupId>
   <artifactId>shade-project</artifactId>
   <versioning>
-    <lastUpdated>20240516165851</lastUpdated>
+    <lastUpdated>20240815093655</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,18 +11,18 @@
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20240516165851</updated>
+        <updated>20240815093655</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20240516165851</updated>
+        <updated>20240815093655</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>shaded</classifier>
         <extension>jar</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20240516165851</updated>
+        <updated>20240815093655</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

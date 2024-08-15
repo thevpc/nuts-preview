@@ -1,6 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu May 16 17:59:04 CET 2024
-nuts-0.8.4-sources.jar>=
+#Thu Aug 15 11:06:26 CET 2024
+nuts-0.8.4-sources.jar>thevpc=
 nuts-0.8.4.jar>=
-nuts-0.8.4-javadoc.jar>=
 nuts-0.8.4.pom>=

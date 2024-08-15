@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Aug 15 10:39:09 CET 2024
-shade-project-1.0-SNAPSHOT.jar>=
+#Thu Aug 15 11:29:20 CET 2024
 shade-project-1.0-SNAPSHOT-shaded.jar>=
+shade-project-1.0-SNAPSHOT.jar>=
 shade-project-1.0-SNAPSHOT.pom>=

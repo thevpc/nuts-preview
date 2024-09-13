@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Aug 15 11:29:28 CET 2024
+#Mon Aug 26 18:36:32 CET 2024
 nuts-portable-0.8.4.0.pom>=
 nuts-portable-0.8.4.0-shaded.jar>=
 nuts-portable-0.8.4.0.jar>=

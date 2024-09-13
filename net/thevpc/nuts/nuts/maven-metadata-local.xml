@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>net.thevpc.nuts</groupId>
-  <artifactId>nuts-api</artifactId>
+  <artifactId>nuts</artifactId>
   <versioning>
     <release>0.8.5</release>
     <versions>
+      <version>0.8.4</version>
       <version>0.8.5</version>
     </versions>
-    <lastUpdated>20240822093435</lastUpdated>
+    <lastUpdated>20240909175132</lastUpdated>
   </versioning>
 </metadata>

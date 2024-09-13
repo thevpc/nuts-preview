@@ -1,4 +1,4 @@
-#version=0.8.4
+#version=0.8.5
 builder/
 builders/
 ext/
@@ -6,11 +6,12 @@ installer/
 installers/
 lib/
 nuts/
+nuts-api/
 nuts-builder/
 nuts-companions-builder/
 nuts-core-builder/
 nuts-extensions-build/
-nuts-impl/
+nuts-full/
 nuts-incubating-build/
 nuts-lib-build/
 nuts-lib-template/

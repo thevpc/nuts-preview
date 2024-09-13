@@ -1,4 +1,4 @@
-#version=0.8.4
+#version=0.8.5
 _remote.repositories
 maven-metadata-local.xml
 springboot-project-1.0-SNAPSHOT-spring-boot.jar

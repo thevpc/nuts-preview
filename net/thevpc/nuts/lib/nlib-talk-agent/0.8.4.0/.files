@@ -1,4 +1,4 @@
-#version=0.8.4
+#version=0.8.5
 _remote.repositories
 nlib-talk-agent-0.8.4.0.jar
 nlib-talk-agent-0.8.4.0.pom

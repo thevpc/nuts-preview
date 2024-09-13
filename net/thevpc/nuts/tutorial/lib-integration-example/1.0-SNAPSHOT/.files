@@ -1,4 +1,4 @@
-#version=0.8.4
+#version=0.8.5
 _remote.repositories
 lib-integration-example-1.0-SNAPSHOT.jar
 lib-integration-example-1.0-SNAPSHOT.pom

@@ -1,4 +1,4 @@
-#version=0.8.4
+#version=0.8.5
 _remote.repositories
 assembly-project-1.0-SNAPSHOT-jar-with-dependencies.jar
 assembly-project-1.0-SNAPSHOT.jar

@@ -3,7 +3,7 @@
   <groupId>net.thevpc.nuts.tutorial</groupId>
   <artifactId>spring-boot-integration-hello-world-example</artifactId>
   <versioning>
-    <lastUpdated>20240909175132</lastUpdated>
+    <lastUpdated>20240926144911</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,12 +11,12 @@
       <snapshotVersion>
         <extension>jar</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20240909175132</updated>
+        <updated>20240926144911</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20240909175132</updated>
+        <updated>20240926144911</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

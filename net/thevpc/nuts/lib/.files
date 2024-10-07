@@ -1,4 +1,7 @@
 #version=0.8.5
+nlib-common-collections/
+nlib-common-strings/
+nlib-common-utils/
 nlib-md/
 nlib-servlet/
 nlib-spring-boot/

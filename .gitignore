@@ -1,2 +1,4 @@
 **/*.lastUpdated
 **/_remote.repositories
+**/*-shaded.jar
+**/*-small.jar

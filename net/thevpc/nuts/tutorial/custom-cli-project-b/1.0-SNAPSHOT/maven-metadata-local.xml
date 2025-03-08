@@ -3,7 +3,7 @@
   <groupId>net.thevpc.nuts.tutorial</groupId>
   <artifactId>custom-cli-project-b</artifactId>
   <versioning>
-    <lastUpdated>20241103092818</lastUpdated>
+    <lastUpdated>20250130154802</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,12 +11,12 @@
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20241103092818</updated>
+        <updated>20250130154802</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20241103092818</updated>
+        <updated>20250130154802</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

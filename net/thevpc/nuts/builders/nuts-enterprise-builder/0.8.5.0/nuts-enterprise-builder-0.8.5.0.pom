@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
     <modules>
 <!--        <module>nops-my-vpc</module>-->
-        <module>nsync</module>
+        <!--<module>nsync</module>-->
         <module>nuts-agent</module>
         <module>nuts-pgpool-cluster</module>
         <module>nuts-postgres-cluster</module>

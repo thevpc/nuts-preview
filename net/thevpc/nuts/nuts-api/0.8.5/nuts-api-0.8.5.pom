@@ -59,7 +59,11 @@
     </licenses>
 
     <dependencies>
-
+        <dependency>
+            <groupId>net.thevpc.nuts</groupId>
+            <artifactId>nuts-boot</artifactId>
+            <version>0.8.5</version>
+        </dependency>
     </dependencies>
     <distributionManagement>
         <snapshotRepository>

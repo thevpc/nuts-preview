@@ -1,4 +1,6 @@
 #version=0.8.5
 _remote.repositories
+nuts-runtime-0.8.5.0-javadoc.jar
+nuts-runtime-0.8.5.0-sources.jar
 nuts-runtime-0.8.5.0.jar
 nuts-runtime-0.8.5.0.pom

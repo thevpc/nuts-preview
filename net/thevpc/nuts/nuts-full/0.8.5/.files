@@ -1,5 +1,9 @@
 #version=0.8.5
 _remote.repositories
+nuts-full-0.8.5-javadoc.jar
 nuts-full-0.8.5-shaded.jar
+nuts-full-0.8.5-sources.jar
 nuts-full-0.8.5.jar
+nuts-full-0.8.5.jar.lastUpdated
 nuts-full-0.8.5.pom
+nuts-full-0.8.5.pom.lastUpdated

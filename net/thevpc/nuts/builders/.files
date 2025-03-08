@@ -1,4 +1,7 @@
 #version=0.8.5
+ndoc-builder/
+njob-builder/
+noapi-builder/
 nuts-builder/
 nuts-companions-builder/
 nuts-core-builder/
@@ -7,6 +10,8 @@ nuts-extensions-builder/
 nuts-incubating-builder/
 nuts-installers-builder/
 nuts-libraries-builder/
+nuts-shell-builder/
 nuts-third-party-companions-builder/
 nuts-toolbox-builder/
 nuts-tutorials-builder/
+nversion-builder/

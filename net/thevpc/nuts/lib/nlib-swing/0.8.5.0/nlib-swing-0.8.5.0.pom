@@ -48,13 +48,17 @@
 
     <licenses>
         <license>
-            <name>GNU LESSER GENERAL PUBLIC LICENSE Version </name>
-<url>https://www.gnu.org/licenses/lgpl-3.0.en.html</url>
-
+            <name>GNU LESSER GENERAL PUBLIC LICENSE Version</name>
+            <url>https://www.gnu.org/licenses/lgpl-3.0.en.html</url>
         </license>
     </licenses>
 
     <dependencies>
+        <dependency>
+            <groupId>net.thevpc.nuts</groupId>
+            <artifactId>nuts-lib</artifactId>
+            <version>0.8.5.0</version>
+        </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>

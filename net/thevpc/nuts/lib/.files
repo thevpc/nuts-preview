@@ -1,4 +1,5 @@
 #version=0.8.5
+ndoc-lib/
 nlib-common-collections/
 nlib-common-strings/
 nlib-common-utils/
@@ -13,5 +14,6 @@ nlib-sync/
 nlib-talk-agent/
 nlib-template/
 nlib-tomcat-classloader/
+nmarkdown/
 nsync/
 nuts-boot-swing/

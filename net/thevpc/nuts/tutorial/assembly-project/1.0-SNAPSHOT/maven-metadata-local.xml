@@ -3,7 +3,7 @@
   <groupId>net.thevpc.nuts.tutorial</groupId>
   <artifactId>assembly-project</artifactId>
   <versioning>
-    <lastUpdated>20250130154802</lastUpdated>
+    <lastUpdated>20250328065626</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,18 +11,18 @@
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20250130154802</updated>
+        <updated>20250328065626</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20250130154802</updated>
+        <updated>20250328065626</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>jar-with-dependencies</classifier>
         <extension>jar</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20250130154802</updated>
+        <updated>20250328065626</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

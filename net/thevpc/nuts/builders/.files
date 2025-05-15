@@ -10,6 +10,7 @@ nuts-extensions-builder/
 nuts-incubating-builder/
 nuts-installers-builder/
 nuts-libraries-builder/
+nuts-nstore-builder/
 nuts-shell-builder/
 nuts-third-party-companions-builder/
 nuts-toolbox-builder/

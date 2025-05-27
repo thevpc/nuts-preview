@@ -1,5 +1,3 @@
 #version=0.8.5
-_remote.repositories
-nuts-portable-0.8.5.0-shaded.jar
 nuts-portable-0.8.5.0.jar
 nuts-portable-0.8.5.0.pom

@@ -9,8 +9,6 @@ nlib-servlet/
 nlib-spring-boot/
 nlib-ssh/
 nlib-swing/
-nlib-swing-min/
-nlib-sync/
 nlib-talk-agent/
 nlib-template/
 nlib-tomcat-classloader/

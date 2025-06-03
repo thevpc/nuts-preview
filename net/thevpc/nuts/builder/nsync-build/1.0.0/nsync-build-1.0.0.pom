@@ -11,9 +11,8 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
     <modules>
-        <module>nlib-sync</module>
+        <module>nsync-lib</module>
         <module>nsync</module>
-        <module>nsync-portable</module>
     </modules>
 
 </project>

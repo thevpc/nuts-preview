@@ -5,6 +5,8 @@ ext/
 installer/
 installers/
 lib/
+nlib-swing/
+nsync/
 nuts/
 nuts-api/
 nuts-app/
@@ -17,6 +19,7 @@ nuts-core-builder/
 nuts-extensions-build/
 nuts-full/
 nuts-incubating-build/
+nuts-javax-servlet/
 nuts-lib/
 nuts-lib-build/
 nuts-lib-template/
@@ -25,6 +28,7 @@ nuts-runtime-test/
 nuts-spring-boot/
 nuts-ssh/
 nuts-swing/
+nuts-talk-agent/
 nuts-term/
 nuts-third-party-companions-build/
 nuts-tomcat-classloader/

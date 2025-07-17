@@ -1,4 +1,4 @@
-#version=0.8.5
+#version=0.8.6
 _remote.repositories
 maven-metadata-local.xml
 rerun-1.0-SNAPSHOT.jar

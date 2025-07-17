@@ -1,4 +1,4 @@
-#version=0.8.5
+#version=0.8.6
 _remote.repositories
 maven-metadata-local.xml
 nuts-spring-boot-integration-install-events-example-0.0.1-SNAPSHOT.jar

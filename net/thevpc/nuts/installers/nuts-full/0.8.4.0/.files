@@ -1,4 +1,4 @@
-#version=0.8.5
+#version=0.8.6
 _remote.repositories
 nuts-full-0.8.4.0-shaded.jar
 nuts-full-0.8.4.0.jar

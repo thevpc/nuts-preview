@@ -1,4 +1,4 @@
-#version=0.8.5
+#version=0.8.6
 _remote.repositories
 ndexer-0.8.4.0.pom
 ndexer-0.8.4.0.war

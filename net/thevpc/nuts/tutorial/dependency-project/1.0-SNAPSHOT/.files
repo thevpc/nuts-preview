@@ -1,4 +1,4 @@
-#version=0.8.5
+#version=0.8.6
 _remote.repositories
 dependency-project-1.0-SNAPSHOT.jar
 dependency-project-1.0-SNAPSHOT.pom

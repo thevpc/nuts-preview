@@ -1,4 +1,4 @@
-#version=0.8.5
+#version=0.8.6
 assembly-project/
 custom-cli-project-a/
 custom-cli-project-b/
@@ -14,4 +14,6 @@ remote-self-call-example/
 shade-project/
 simple-project/
 spring-boot-integration-hello-world-example/
+spring-boot-integration-hello-world-example-a/
+spring-boot-integration-hello-world-example-b/
 springboot-project/

@@ -1,3 +1,8 @@
-#version=0.8.5
+#version=0.8.6
+_remote.repositories
+nuts-api-0.8.5-javadoc.jar
+nuts-api-0.8.5-sources.jar
 nuts-api-0.8.5.jar
+nuts-api-0.8.5.jar.lastUpdated
 nuts-api-0.8.5.pom
+nuts-api-0.8.5.pom.lastUpdated

@@ -3,10 +3,10 @@
   <groupId>net.thevpc.nuts.builders</groupId>
   <artifactId>nuts-nstore-builder</artifactId>
   <versioning>
-    <release>0.8.6.0</release>
+    <release>0.8.7.0</release>
     <versions>
       <version>0.8.5.0</version>
-      <version>0.8.6.0</version>
+      <version>0.8.7.0</version>
     </versions>
     <lastUpdated>20250711125944</lastUpdated>
   </versioning>

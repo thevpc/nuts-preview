@@ -1,4 +1,4 @@
-#version=0.8.8
+#version=0.8.9
 _remote.repositories
 nuts-term-0.8.5.0.jar
 nuts-term-0.8.5.0.pom

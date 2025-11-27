@@ -1,4 +1,4 @@
-#version=0.8.8
+#version=0.8.9
 _remote.repositories
 nuts-boot-0.8.5-javadoc.jar
 nuts-boot-0.8.5-sources.jar

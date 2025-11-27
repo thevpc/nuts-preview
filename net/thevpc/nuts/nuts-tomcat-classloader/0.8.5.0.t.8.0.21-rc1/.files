@@ -1,4 +1,4 @@
-#version=0.8.8
+#version=0.8.9
 _remote.repositories
 nuts-tomcat-classloader-0.8.5.0.t.8.0.21-rc1.jar
 nuts-tomcat-classloader-0.8.5.0.t.8.0.21-rc1.pom

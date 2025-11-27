@@ -1,4 +1,4 @@
-#version=0.8.8
+#version=0.8.9
 _remote.repositories
 nsync-portable-1.0-shaded.jar
 nsync-portable-1.0.jar

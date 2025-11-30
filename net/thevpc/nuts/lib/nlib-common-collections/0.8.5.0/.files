@@ -1,4 +1,3 @@
 #version=0.8.9
-_remote.repositories
 nlib-common-collections-0.8.5.0.jar
 nlib-common-collections-0.8.5.0.pom

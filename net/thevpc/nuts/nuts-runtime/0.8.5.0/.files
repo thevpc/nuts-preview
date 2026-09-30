@@ -1,4 +1,4 @@
-#version=1.0.0
+#version=1.1.0
 _remote.repositories
 nuts-runtime-0.8.5.0-javadoc.jar
 nuts-runtime-0.8.5.0-sources.jar

@@ -1,4 +1,4 @@
-#version=1.0.0
+#version=1.1.0
 _remote.repositories
 maven-metadata-local.xml
 remote-self-call-example-1.0-SNAPSHOT.jar
